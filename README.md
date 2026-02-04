@@ -1,6 +1,6 @@
-### 📊 Retail Customer Behavior & Shopping Trends Analysis
+# 📊 Retail Customer Behavior & Shopping Trends Analysis
 
-# 📌 Project Overview
+### 📌 Project Overview
 
 This project demonstrates a complete, real-world data analytics workflow used in retail organizations to understand customer behavior, purchasing trends, and revenue drivers.
 
@@ -8,7 +8,7 @@ The goal is to convert raw transactional data into meaningful business insights 
 
 This is not a basic visualization project; it follows an end-to-end analytics lifecycle, from data cleaning to executive reporting.
 
-# 🎯 Business Problem Statement
+### 🎯 Business Problem Statement
 
 Retail companies often struggle to answer questions like:
 
@@ -22,20 +22,21 @@ How can customer behavior insights improve marketing and sales strategy?
 
 This project aims to analyze customer transactions to uncover behavioral trends, revenue patterns, and actionable insights that a retail business can use to improve performance.
 
-# 🛠️ Tools & Technologies Used
+### 🛠️ Tools & Technologies Used
 
-Python (Pandas, NumPy, Matplotlib, Seaborn) – Data cleaning, transformation, and EDA
+**Python (Pandas, NumPy, Matplotlib, Seaborn)** – Data cleaning, transformation, and EDA
 
-SQL – Business queries, customer segmentation, trend analysis
+**SQL** – Business queries, customer segmentation, trend analysis
 
-Power BI – Interactive dashboards and KPI visualization
+**Power BI** – Interactive dashboards and KPI visualization
 
-GitHub – Version control and portfolio hosting
+**GitHub** – Version control and portfolio hosting
 
-Gamma AI – Executive-style presentation deck
+**Gamma AI** – Executive-style presentation deck
 
-🔄 Project Workflow
-1️⃣ Data Loading & Cleaning (Python)
+###🔄 Project Workflow
+
+**1️⃣ Data Loading & Cleaning (Python)**
 
 Loaded raw retail transaction data
 
@@ -45,7 +46,7 @@ Standardized categorical fields
 
 Created derived features for analysis (e.g., customer segments, order metrics)
 
-2️⃣ Exploratory Data Analysis (EDA)
+**2️⃣ Exploratory Data Analysis (EDA)**
 
 Analyzed customer demographics and purchasing behavior
 
@@ -56,7 +57,7 @@ Detected high-performing and underperforming product categories
 <img width="1305" height="621" alt="image" src="https://github.com/user-attachments/assets/1fa8f6fc-782a-4d44-ac2d-bcca6dc411c3" />
 
 
-3️⃣ SQL Business Analysis
+**3️⃣ SQL Business Analysis**
 
 Simulated real-world business queries such as:
 
@@ -74,7 +75,7 @@ Used SQL to validate insights found during EDA
 
 
 
-4️⃣ Data Visualization (Power BI)
+**4️⃣ Data Visualization (Power BI)**
 
 Built an interactive dashboard for stakeholders
 
@@ -95,7 +96,7 @@ Designed dashboards for quick executive decision-making
 <img width="774" height="446" alt="Screenshot 2026-02-04 235021" src="https://github.com/user-attachments/assets/dbc49679-46e2-4eb7-9e14-8880de135151" />
 
 
-5️⃣ Reporting & Presentation
+**5️⃣ Reporting & Presentation**
 
 Created a structured project report documenting:
 
@@ -109,7 +110,7 @@ Business recommendations
 
 Built an executive presentation summarizing insights and actions
 
-📈 Key Insights (Sample)
+**📈 Key Insights (Sample)**
 
 A small segment of repeat customers contributes a significant portion of total revenue
 
@@ -121,7 +122,7 @@ Targeted strategies for loyal customers can improve overall revenue retention
 
 (Exact insights may vary based on analysis results.)
 
-💡 Business Recommendations
+**💡 Business Recommendations**
 
 Focus marketing efforts on high-value and repeat customers
 
@@ -131,7 +132,8 @@ Use behavioral insights to design targeted promotions
 
 Monitor declining categories to reduce losses or reposition products
 
-📁 Repository Structure
+**📁 Repository Structure**
+
 📦 Retail-Customer-Analytics
  ┣ 📂 data                → Raw and cleaned datasets
  ┣ 📂 notebooks           → Python data cleaning & EDA
@@ -141,7 +143,7 @@ Monitor declining categories to reduce losses or reposition products
  ┣ 📂 presentation        → Executive presentation
  ┗ 📄 README.md
 
-🚀 Why This Project Matters
+**🚀 Why This Project Matters**
 
 This project reflects how data analysts work in real organizations:
 
