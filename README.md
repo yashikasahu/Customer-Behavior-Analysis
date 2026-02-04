@@ -1,5 +1,6 @@
-📊 Retail Customer Behavior & Shopping Trends Analysis
-📌 Project Overview
+### 📊 Retail Customer Behavior & Shopping Trends Analysis
+
+# 📌 Project Overview
 
 This project demonstrates a complete, real-world data analytics workflow used in retail organizations to understand customer behavior, purchasing trends, and revenue drivers.
 
@@ -7,7 +8,7 @@ The goal is to convert raw transactional data into meaningful business insights 
 
 This is not a basic visualization project; it follows an end-to-end analytics lifecycle, from data cleaning to executive reporting.
 
-🎯 Business Problem Statement
+# 🎯 Business Problem Statement
 
 Retail companies often struggle to answer questions like:
 
@@ -21,7 +22,7 @@ How can customer behavior insights improve marketing and sales strategy?
 
 This project aims to analyze customer transactions to uncover behavioral trends, revenue patterns, and actionable insights that a retail business can use to improve performance.
 
-🛠️ Tools & Technologies Used
+# 🛠️ Tools & Technologies Used
 
 Python (Pandas, NumPy, Matplotlib, Seaborn) – Data cleaning, transformation, and EDA
 
