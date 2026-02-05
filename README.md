@@ -95,6 +95,8 @@ Designed dashboards for quick executive decision-making
 
 <img width="635" height="360" alt="Screenshot 2026-02-06 020411" src="https://github.com/user-attachments/assets/81cd12f2-ef1f-48bf-8b1f-7e0cb3721919" />
 
+
+
 **5️⃣ Reporting & Presentation**
 
 Created a structured project report documenting:
