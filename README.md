@@ -93,7 +93,7 @@ Time-based Trends
 
 Designed dashboards for quick executive decision-making 
 
-
+<img width="769" height="435" alt="Screenshot 2026-02-05 235221" src="https://github.com/user-attachments/assets/8bfae8cd-4579-4ed1-8664-f5f0b76ff9d9" />
 
 
 **5️⃣ Reporting & Presentation**
